@@ -1,0 +1,16 @@
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\bin\Debug\CKNET_QLSP.exe.config
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\bin\Debug\CKNET_QLSP.exe
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\bin\Debug\CKNET_QLSP.pdb
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\obj\Debug\CKNET_QLSP.csprojAssemblyReference.cache
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\obj\Debug\CKNET_QLSP.Properties.Resources.resources
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\obj\Debug\CKNET_QLSP.View.form_Detail.resources
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\obj\Debug\CKNET_QLSP.form_Main.resources
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\obj\Debug\CKNET_QLSP.csproj.GenerateResource.cache
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\obj\Debug\CKNET_QLSP.csproj.CoreCompileInputs.cache
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\obj\Debug\CKNET_QLSP.exe
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\obj\Debug\CKNET_QLSP.pdb
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\bin\Debug\EntityFramework.dll
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\bin\Debug\EntityFramework.SqlServer.dll
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\bin\Debug\EntityFramework.xml
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\bin\Debug\EntityFramework.SqlServer.xml
+F:\HOC\Project_CV\CKNET_QLSP\CKNET_QLSP\obj\Debug\CKNET_QLSP.csproj.CopyComplete
